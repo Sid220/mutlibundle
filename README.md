@@ -1,4 +1,6 @@
 # Multibundle
+![Build](https://github.com/Sid220/mutlibundle/actions/workflows/build.yml/badge.svg)
+
 Mutltibundle saves many files together into a single tape or disk archive, and can restore individual files from the archive. It is a novel alternative to GNU tar, and aims to be incredibly portable.
 
 ## Usage
